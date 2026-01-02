@@ -1,4 +1,4 @@
-## Hi 👋 Vivek Tripathi
+## Hi 👋 I'm Vivek Tripathi
 
 # 🚀 DevOps Engineer @ Just Dial
 ☁️ I work on, Azure, Aws | Terraform | Docker | Kubernetes | CI/CD | GitHub Actions<br>🔐 Passionate about Cloud Security & DevSecOps automation<br>🧠 Exploring GKE, AKS, EKS, monitoring, and production-ready pipelines<br>📫 Reach me at: vivektripathi8662@gmail.com<br>🔗 Portfolio: vivektripahti360
