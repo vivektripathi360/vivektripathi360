@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Vivek Tripathi
 
 # 🚀 DevOps Engineer @ Nexgen IOT Solutions
-☁️ I work on, Azure, Aws | Terraform | CI/CD | GitHub Actions | Docker | Kubernetes<br>🔐 Passionate about Cloud Security & DevSecOps automation<br>🧠 Exploring GKE, AKS, EKS, monitoring, and production-ready pipelines<br>📫 Reach me at: vivektripathi8662@gmail.com<br>🔗 Portfolio: vivektripathi360
+☁️ I work on, Azure, Aws | Terraform | CI/CD | GitHub Actions | Docker | Kubernetes<br>🔐 Passionate about Cloud Security & DevSecOps automation<br>🧠 Exploring AKS, monitoring, and production-ready pipelines<br>📫 Reach me at: vivektripathi8662@gmail.com<br>🔗 Portfolio: vivektripathi360
 
 
 ## 🌐 Social
